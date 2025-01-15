@@ -1,20 +1,20 @@
 [
   {
     "type": "release",
-    "versionCode": 1162,
-    "versionName": "1.1.6.2",
-    "date": "2024.05.27",
+    "versionCode": 1199,
+    "versionName": "1.1.9.9",
+    "date": "2025.01.09",
     "description": [
       {
         "lang": "en",
-        "text": "Fix some bug.\nAdd some features.\nFix some bugs, see github for details."
+        "text": "See Github for details."
       },
       {
         "lang": "zh_CN",
-        "text": "FCL 1.1.6.2更新内容\n修复少许bug"
+        "text": "（若启动器内下载缓慢请使用网盘下载,64位的请下载arm64，不知道该下哪个的请下载all）\n1.修复禁用模组后仍然被打印在日志内的Bug\n2.禁用GL4ES+的ANGLE后端\n3.修复GL4ES+与最新的Optifine相关Bug\n4.允许渲染器插件使用DLOPEN调用额外库\n5.更新Turnip至24.3.3\n6.增加获取已安装应用权限（用于获取已安装的插件）\n7.同步部分Pojav后端代码"
       }
     ],
-    "netdiskUrl": "https://alist.8mi.tech/FCL",
-    "url": "https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.6.2/FCL-release-1.1.6.2-all.apk"
+    "netdiskUrl": "https://pan.quark.cn/s/1ea5f919af80",
+    "url": "https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.9.9/FCL-release-1.1.9.9-all.apk"
   }
 ]

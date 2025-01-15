@@ -348,6 +348,8 @@ public class FCLGameRepository extends DefaultGameRepository {
                 .setServerIp(vs.getServerIp())
                 .setJavaAgents(javaAgents)
                 .setBEGesture(vs.isBeGesture())
+                .setVkDriverSystem(vs.isVKDriverSystem())
+                .setPojavBigCore(vs.isPojavBigCore())
                 .setRenderer(vs.getRenderer());
 
         File json = getModpackConfiguration(version);
